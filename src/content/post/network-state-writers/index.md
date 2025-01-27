@@ -1,9 +1,9 @@
 ---
 title: "Raising a Soverign Child in the Digital Age "
 description: "This post is for testing and listing a number of different markdown elements"
-publishDate: "22 Feb 2023"
-updatedDate: 22 Jan 2024
-tags: ["test", "markdown"]
+publishDate: "27 Jan 2025"
+updatedDate: 27 Jan 2025
+tags: ["network state", "soverign child"]
 ---
 
 ## This is a H2 Heading
