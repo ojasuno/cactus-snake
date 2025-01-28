@@ -1,6 +1,6 @@
 ---
 title: "Raising a Soverign Child in the Digital Age "
-description: "This post is for testing and listing a number of different markdown elements"
+description: "Explore how to nurture a child who is self-reliant, digitally literate, and capable of thriving in a decentralised, hyper-connected world. Discuss the intersection of education, technology, and values in fostering sovereignty from a young age."
 publishDate: "27 Jan 2025"
 updatedDate: 27 Jan 2025
 tags: ["network state", "soverign child"]
